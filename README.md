@@ -13,4 +13,4 @@ This repository is the official reporisity of MammalClub: An Annotated Wild Mamm
 
 ## Download
 The dataset can be downloaded from
-[Baidu Pan](https://pan.baidu.com/s/1_9-MacauQxIatkvpRpFksA) (code: )
+[Baidu Pan](https://pan.baidu.com/s/1_9-MacauQxIatkvpRpFksA) (code: o9j9)
