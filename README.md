@@ -9,7 +9,7 @@ This repository is the official reporisity of MammalClub: An Annotated Wild Mamm
 ### Behavior recognition sub-dataset
 ![image](images/BRSD.png)
 ### Wild mammal individual identification sub-dataset
-
+![image](images/IISD.png)
 
 ## Download
 The dataset can be downloaded from
